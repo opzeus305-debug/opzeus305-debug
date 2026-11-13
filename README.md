@@ -13,7 +13,7 @@ I build expressive websites and practical web applications, from the first desig
 | **Real Estate by Umer** | A property consultant’s website with an interactive Three.js tower, keyboard controls, mobile geometry, and a photographic fallback. | [Explore the project](https://github.com/opzeus305-debug/realestatebyumer) |
 | **Cuddle Avenue Academy** | An editorial early-education website with program browsing, a full-screen navigation system, and a responsive family-focused experience. | [Explore the project](https://github.com/opzeus305-debug/cuddleavenue) |
 
-My wider work includes a memorial booklet studio’s marketing site and intake-to-proof application, nonprofit websites, and event and floral businesses. Client application source stays private.
+My wider work includes a memorial booklet studio’s marketing site and intake-to-proof application, nonprofit websites, event and floral businesses, and voice-first assistants and AI automation. Client application source stays private.
 
 ## How I work
 
