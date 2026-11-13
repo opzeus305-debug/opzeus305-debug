@@ -17,7 +17,7 @@ My wider work includes a memorial booklet studio’s marketing site and intake-t
 
 ## Portfolio — 19 projects
 
-The source collection now includes **14 project repositories**. Client work and development snapshots stay private; links below lead to the public repositories. The remaining entries are shared workflow work, portfolio documentation or description-stage concepts.
+The source collection now includes **14 project repositories**. New source imports are private; links below lead to the existing public repositories. The remaining entries are shared workflow work, portfolio documentation or description-stage concepts.
 
 ### Websites, applications and creative work
 
